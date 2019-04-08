@@ -1,4 +1,4 @@
-# NBA Players Salaries Predicrion in Python 🐍
+# NBA Players Salaries Prediction in Python 🐍
 
 ## ❓ About
 
@@ -11,7 +11,8 @@
 #### Pandas
 #### SKlearn
 
-```python
+## 🔧 Install Comamands
+```
 pip install numpy
 pip install pandas
 pip install sklearn
