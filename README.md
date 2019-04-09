@@ -1,5 +1,5 @@
 # NBA Players Salaries Prediction in Python 🐍
-
+### by using Linear Regression Model
 ## ❓ About
 
 >Αναγνώριση Προτύπων σε Python & Matlab
